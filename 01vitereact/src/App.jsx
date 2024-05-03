@@ -1,7 +1,8 @@
-function App() {
+import Chai from "./Chai"
+function App() { 
   return (
     <>
-        <h>Amir Muddassar </h>
+        <Chai/>
     </>
   )
 }
